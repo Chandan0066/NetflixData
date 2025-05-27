@@ -41,12 +41,10 @@ The dataset contains Netflix titles from 1925 to 2021 with fields such as:
 - Standardized and clustered into 5 groups using KMeans.
 
 ## 📦 Deliverables
-- `netflix_cleaned.csv`: Cleaned dataset used for ML and analysis.
-- `netflix_ml_output.csv`: Final data with clustering and ML insights.
-- `Netflix_Data_Project_Report.docx`: Final project report.
-- `Netflix_Data_Project_Presentation.pptx`: PowerPoint summary.
-- `netflix_ml_code.py`: Python script with recommendation and clustering logic.
-- `SQL_Scripts.sql`: SQL code for cleaning, querying, and genre analysis.
+- `Netflix_ML.ipynb`: Final data with clustering and ML insights.
+- `NetflixData_Report.ppt`: Final project report PowerPoint summary.
+- `netflix_final.xlsx`: Excel with visualized data
+- `Netflix_SQL.sql`: SQL code for cleaning, querying, and genre analysis.
 
 ## ✅ Business Applications
 - Personalized content recommendations for users.
@@ -54,9 +52,3 @@ The dataset contains Netflix titles from 1925 to 2021 with fields such as:
 - Targeted marketing based on genre clusters.
 - Insights for content acquisition strategies.
 
-## 👤 Author
-- **[Your Name]**
-- Project guided by real-world analytics and ML practices.
-
-## 📝 License
-This project is for academic and portfolio use only.
